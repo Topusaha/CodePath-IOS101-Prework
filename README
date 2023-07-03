@@ -17,24 +17,33 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=''title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Topusaha/CodePath-IOS101-Prework/blob/main/Kapture%202023-07-03%20at%2016.44.52.gif'title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Kap  
+
 
 ## App Brainstorming (Step 4)
+1. Instagram 
+ - Sending Messages to people
+ - Able to activate private mode where nothing is saved
 
+2. iMessage
+ - Able to delete messages 
+ - Able to send animations along with messages 
+
+3. Twitter
+ - Able to post tweets for all to see
+ - Able to make your account private 
 ## Notes
 
-Describe any challenges encountered while building the app.
 
+An App I would like to develop during the course is something around data. I am a data scientists and thats where my expierence lies. 
+I would like to use that knowledge and expand on it with app development to build an app around data. Maybe it will be an app that lets you 
+take pictures of flowers and it'll show you what kind of flower it is. 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Topu Saha]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
